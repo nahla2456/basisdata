@@ -1,0 +1,35 @@
+MySQL adalah DBMS Relational OpenSource
+
+run command 
+peirntah mysql = mysql -uroot -p
+
+MySQL Client adalah aplikasi berbasis terminal yang disediakan oleh MySQL untuk berkomunikasi dengan MySQL Server
+
+Database adalah tempat kita menyimpan table di MySQL
+
+Membuat Database
+- create database nama_database;
+
+Menghapus database
+- drop database nama_database;
+
+Memilih database 
+- use nama_database;
+
+Beberapa perintah sql paling penting 
+SELECT - mengekstrak data dari database
+UPDATE - memperbarui data dalam database
+DELETE - menghapus data dari database
+INSERT INTO - memasukan data baru ke dalam database
+CREATE DATABASE - membuat database baru
+ALTER DATABASE - memodifikasi database 
+CREATE TABLE - membuat table baru
+ALTER TABLE - memodifikasi table
+DROP TABLE - menghapus table
+CREATE INDEX - membuat index (kunci pencarian)
+DROP INDEX - menghapus index
+
+Tipe data boolean
+BOOLEAN adalah tipe data kebenaran, yang artinya datanya hanya ada dua jenis, benar atau salah
+
+
